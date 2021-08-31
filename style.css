@@ -91,6 +91,7 @@ hr{
 .headr .headr_heading{
     color: var(--dark-gray);
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .headr .headr_heading .headr_highlight{
