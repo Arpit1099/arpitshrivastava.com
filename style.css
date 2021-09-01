@@ -4,6 +4,7 @@
     --primary-color: #65A30D;
     --dark-gray : #6B7280;
     --dark-ow: #D1D5DB;
+    --light-gray-p: #F3F4F6;
 }
 
 body{
@@ -12,6 +13,10 @@ body{
 
 hr{
     margin: 0rem 1rem;
+}
+
+.list-non-bullet{
+    list-style: none;
 }
 
 .link{
@@ -34,15 +39,14 @@ hr{
 /*container*/
 
 .container{
-    padding: 1rem 0rem;
+    padding: 2rem 0rem;
 }
 
 .container-center{
-    max-width:600px ;
+    max-width: 1000px;
     margin: auto;
     text-align: center;
 }
-
 
 /**nav**/
 
@@ -127,9 +131,30 @@ hr{
 }
 
 .footer .link{
-    color: white;
+    color:white;
+    font-weight:normal ;
 }
 
 .fooetr ul{
     padding-inline-start: 0px;
+}
+
+
+/*.footer_div{
+    background-color: white;
+    border-radius: 2rem ;
+    margin-left: 40rem;
+    margin-right: 35rem;
+
+}*/
+
+.footerLine{
+    margin-left: 40rem;
+    margin-right: 40rem;
+}
+
+.showcase-list{
+    background-color: var(--light-gray-p);
+    padding: 1.5rem rem;
+    border-radius: 1.6rem;
 }
