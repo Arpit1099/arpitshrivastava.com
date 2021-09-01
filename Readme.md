@@ -1,3 +1,4 @@
 # my portfolio
 
-Hey! welcome this is arpit. my portfolio will bw up by tomorow.
+Hey there! I'm Arpit. My portfolio is live now. 
+pls check it out, welcome suggestions.
