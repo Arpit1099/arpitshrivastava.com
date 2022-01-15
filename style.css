@@ -2,7 +2,7 @@
 
 :root{
     --primary-color: #65A30D;
-    --dark-gray : #6B7280;
+    --dark-gray : #8b8f96;
     --dark-ow: #D1D5DB;
     --light-gray-p: #F3F4F6;
 }
@@ -116,7 +116,7 @@ hr{
 }
 
 .section-ow{
-    background-color: var(--dark-ow);
+    background-color: var(--dark-gray);
     padding: 1rem 0rem;
     margin-left: 2rem;
     margin-right: 2rem;
